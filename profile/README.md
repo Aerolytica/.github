@@ -51,7 +51,7 @@ Ganzheitliche Digitalisierung statt Insellösungen, von der ersten Analyse bis z
 | | |
 | :--- | :--- |
 | **Mario Dally**<br>Geschäftsführender Gesellschafter | M.Sc. Informatik (Universität der Bundeswehr München) · Stabsoffizier der Luftwaffe · Berufspilot und Fluglehrer |
-| **Dr. Steven Künzel**<br>Mitgründer und Geschäftsführer | M.Sc. Informatik und Promotion in Maschinellem Lernen und KI (Universität der Bundeswehr München) · Stabsoffizier d. R. im Cyber- und Informationsraum · Software Engineer und Projektleiter |
+| **Dr. Steven Künzel**<br>Mitgründer und Geschäftsführer | M.Sc. Informatik und Promotion in Maschinellem Lernen und KI (Universität der Bundeswehr München) · Stabsoffizier der Reserve · AI Engineer |
 
 ## Kontakt
 
@@ -76,7 +76,7 @@ belongs: on hardware under your control.
 - **IT consulting and software development** – end-to-end digitalisation: process analysis, strategy, development
   (microservices, data science, AI) and long-term partnership.
 
-**Team:** Mario Dally (Managing Partner) and Dr. Steven Künzel (Co-founder and Managing Director, PhD in machine
+**Team:** Mario Dally (Managing Director) and Dr. Steven Künzel (Co-founder and Managing Partner, PhD in machine
 learning), both computer scientists from the Bundeswehr University Munich.
 
 📫 [kontakt@aerolytica.de](mailto:kontakt@aerolytica.de) · [aerolytica.de](https://aerolytica.de)

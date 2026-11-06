@@ -71,7 +71,7 @@ belongs: on hardware under your control.
   and federal court decisions, cites a source for every statement and checks each citation, deadline and amount
   against the text. Runs fully on-premises, no cloud model.
 - **In-house AI on dedicated hardware** – a private chatbot for your team that meets German professional secrecy
-  rules (§ 203 StGB, § 43a BRAO, § 62a StBerG): hosted in Germany, no US cloud dependency, frozen open-weight
+  rules (§ 203 StGB, § 43a BRAO, § 62a StBerG): hosted in the EU, no US cloud dependency, frozen open-weight
   models, no per-user usage caps, extensible via MCP.
 - **IT consulting and software development** – end-to-end digitalisation: process analysis, strategy, development
   (microservices, data science, AI) and long-term partnership.
